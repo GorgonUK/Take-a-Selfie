@@ -1,10 +1,10 @@
-import { Component } from '@angular/core';
+import { Component, } from '@angular/core';
 
 @Component({
-  selector: 'app-root',
+  selector: 'Main',
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.sass']
 })
-export class AppComponent {
-  title = 'Take-a-Selfie';
+export class Main {
+
 }
