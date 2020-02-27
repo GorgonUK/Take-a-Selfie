@@ -1,7 +1,7 @@
 # Take a Selfie made with Angular
 
 <img src="https://i1.lensdump.com/i/jj4Np5.png" align="right"
-     title="Take a Selfie by George Kontus" width="200" height="100">
+     title="Take a Selfie App by George Kontus" width="200" height="100">
      
 ![npm](https://img.shields.io/npm/v/node?color=%238BC500&label=Node.js&style=for-the-badge)
 ![npm](https://img.shields.io/npm/v/npm?color=%238BC500&label=NPM&style=for-the-badge)
